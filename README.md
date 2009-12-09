@@ -20,8 +20,14 @@ The Neocomplcache Founder
 
 ## Schedule
 
+Before RubyKaigi2010 ( August 26? )
+
 ## Location
 
 ## Sponsors
+
+## Related
+
+- ![RubyKaigi2010](http://rubykaigi.org/2010/)
 
 # vim: set filetype=markdown :
