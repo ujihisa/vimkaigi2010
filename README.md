@@ -1,6 +1,6 @@
 # VimKaigi2010
 
-## Join us the day before RubyKaigi...
+## Join us the day before RubyKaigi2010...
 
 ## Speakers
 
